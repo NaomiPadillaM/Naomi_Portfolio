@@ -9,8 +9,8 @@ Porfolio of my most important Data Science projects
 * Attempt to predict a _heart failure_ using **Support Vector Machine**, **Decision Tree**, **Neuronal Network**, **Logistic Regression**, **Random Forest** and **K-Nearest Neighbours** using the confusion matrix for the evaluation of each model.
 * Use of _matplotlib_ for all the visualization.
 
-![](/images/heartHistogramas.png)
-<a href="url"><img src="https://github.com/NaomiPadillaM/Naomi_Portfolio/blob/main/images/heartHistogramas.png" align="left" height="150" width="150" ></a>
+![](/images/heartHistogramas.png = 250x250)
+
 
 # [Project 2: Life-Expectancy](https://github.com/NaomiPadillaM/Life-Expectancy.git) 
 For this example project I built a ball classifier to identify balls from different sports. This could be useful for someone who is new to sports from a certain country. They could take a picture of a ball and an app could serve them some information about the history and rules of the game. This is the underlying model for building something with those capabilities. 
