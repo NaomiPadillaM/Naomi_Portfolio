@@ -11,6 +11,7 @@ Porfolio of my most important Data Science projects
 
 ![](/images/heart_1.png)
 
+![](/images/heart_2.png)
 
 Me gusta mucho programar
 
