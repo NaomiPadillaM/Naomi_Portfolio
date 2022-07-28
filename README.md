@@ -10,6 +10,7 @@ Porfolio of my most important Data Science projects
 * Use of _matplotlib_ for all the visualization.
 
 <img src = "https://github.com/NaomiPadillaM/Naomi_Portfolio/blob/main/images/heart_correl.png" width=50% height=50%>
+
 ![](https://github.com/NaomiPadillaM/Naomi_Portfolio/blob/main/heart_correl.png)
 
 
