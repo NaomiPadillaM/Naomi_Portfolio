@@ -1,12 +1,13 @@
-# Naomi_Portfolio
-Data Science Porfolio
+# Naomi Portfolio
+Porfolio of my most important Data Science projects
 
 # [Project 1: Heart Failure Predictions](https://github.com/NaomiPadillaM/Heart-Failure-Predictions.git)
-* Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
-* Scraped over 1000 job descriptions from glassdoor using python and selenium
-* Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. 
-* Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
-* Built a client facing API using flask 
+* Data cleaning and pretreatment using pandas and numpy in order to verify de data type and the non-presence of any null data.
+* Statistical analysis for each feature, their distribution and correlation.
+* Use of Sklearn *Principal Component Analysis (PCA)* and *StandarScaler* for the standarization of the data.
+* Use of *train_test_split* for the training of all the used supervised learning models.
+* Attempt to predict a _heart failure_ using **Support Vector Machine**, **Decision Tree**, **Neuronal Network**, **Logistic Regression**, **Random Forest** and **K-Nearest Neighbours** using the confusion matrix for the evaluation of each model.
+* Use of _matplotlib_ for all the visualization.
 
 ![](images/positions_by_state.png)
 
