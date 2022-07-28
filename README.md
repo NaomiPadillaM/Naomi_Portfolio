@@ -9,7 +9,7 @@ Porfolio of my most important Data Science projects
 * Attempt to predict a _heart failure_ using **Support Vector Machine**, **Decision Tree**, **Neuronal Network**, **Logistic Regression**, **Random Forest** and **K-Nearest Neighbours** using the confusion matrix for the evaluation of each model.
 * Use of _matplotlib_ for all the visualization.
 
-![](/images/heart_correl.png)
+![](/images/heart_1.png)
 
 
 Me gusta mucho programar
