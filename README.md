@@ -1,13 +1,21 @@
-# Naomi Portfolio
-Porfolio of my most important Data Science projects
+# Naomi Padilla Mora
+Porfolio de mis proyectos más destacables en ciencia de datos.
 
-# [Project 1: Heart Failure Predictions](https://github.com/NaomiPadillaM/Heart-Failure-Predictions.git)
-* Data cleaning and pretreatment using pandas and numpy in order to verify de data type and the non-presence of any null data.
-* Statistical analysis for each feature, their distribution and correlation.
-* Use of Sklearn *Principal Component Analysis (PCA)* and *StandarScaler* for the standarization of the data.
-* Use of *train_test_split* for the training of all the used supervised learning models.
-* Attempt to predict a _heart failure_ using **Support Vector Machine**, **Decision Tree**, **Neuronal Network**, **Logistic Regression**, **Random Forest** and **K-Nearest Neighbours** using the confusion matrix for the evaluation of each model.
-* Use of _matplotlib_ for all the visualization.
+## Sobre mi
+Estudiante del 5to semestre de Ingeniería en Ciencia de Datos y Matemáticas en el Tecnológico de Monterrey.
+Me apasiona la programación y la tecnología. Me considero una persona perseverante en mis metas académicas, laborales y personales. Siempre dispuesta a aprender cosas nuevas y retos nuevos.
+
+Mi CV.
+Tablero de GitHub.
+Mi perfil en Linkedin.
+
+# [Proyecto 1: Heart Failure Predictions](https://github.com/NaomiPadillaM/Heart-Failure-Predictions.git)
+* Limpieza y pretratamiento de datos usando *pandas* y *numpy* con el objetivo de verificar el tipo de datos y la presencia de datos nulos.
+* Análisis estadístico de cada variable, su distribución y correlación. 
+* Uso de Sklearn *Principal Component Analysis (PCA)* y *StandarScaler* para la estandarización de los datos.
+* Uso de *train_test_split* para el entrenamiento de los datos en los modelos de aprendizaje supervisado.
+* Intento de predicción de _heart failure_ usando **Support Vector Machine**, **Decision Tree**, **Neuronal Network**, **Logistic Regression**, **Random Forest** and **K-Nearest Neighbours** complementando con la matriz de confusión para la evaluación de cada modelo. 
+* Uso de la librería _matplotlib_ para la visualización. 
 
 ![](/images/heart_1.png)
 
