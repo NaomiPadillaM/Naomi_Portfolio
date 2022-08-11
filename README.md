@@ -5,7 +5,9 @@ Porfolio de mis proyectos más destacables en ciencia de datos.
 Estudiante del 5to semestre de **Ingeniería en Ciencia de Datos y Matemáticas en el Tecnológico de Monterrey**.
 Me apasiona la programación y la tecnología. Me considero una persona perseverante en mis metas académicas, laborales y personales. Siempre dispuesta a aprender cosas nuevas y retos nuevos.
 
-Mi [CV](https://github.com/NaomiPadillaM/Naomi_Portfolio/blob/main/files/Naomi_Padilla%20Mora_Resume.pdf).
+Mi [CV](https://github.com/NaomiPadillaM/Naomi_Portfolio/blob/main/files/Naomi_Padilla%20Mora_Resumen.pdf) (español).
+
+Mi [CV](https://github.com/NaomiPadillaM/Naomi_Portfolio/blob/main/files/Naomi_Padilla%20Mora_Resume.pdf) (inglés).
 
 Tablero de [GitHub](https://github.com/NaomiPadillaM).
 
