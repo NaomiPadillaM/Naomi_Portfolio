@@ -28,7 +28,7 @@ Mi perfil en [Linkedin](https://www.linkedin.com/in/naomi-padilla-mora-/).
 * 
 ![](/images/correlation_visual.png)
 
-# [Proyecto 3: Rero Coppel](https://naomipadillam.github.io/RetoCoppel/) 
+# [Proyecto 3: Reto Coppel](https://naomipadillam.github.io/RetoCoppel/) 
 
 # [Proyecto 4: Predicción Contagios Montecarlo](https://naomipadillam.github.io/ContagioMontecarlo/) 
 
