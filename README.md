@@ -39,10 +39,18 @@ Mi perfil en [Linkedin](https://www.linkedin.com/in/naomi-padilla-mora-/).
 
 <iframe src="https://e6lifenosupervisado.netlify.app/" height="400" width="900"></iframe>
 
-# [Proyecto 3: Reto Coppel](https://naomipadillam.github.io/RetoCoppel/) 
-* hj
-Optimization of Coppel’s routes of e-commerce. Use of algorithms such as TSP, VRP and CVRP in order to optimize the routes of deliveries. Creation of an automated methodology that creates the best routes possible optimizing the number of vehicles, the volume of the articles and the total time of the deliveries
+Puedes explorar este mapa en el [link](https://e6lifenosupervisado.netlify.app/)
 
+# [Proyecto 3: Reto Coppel](https://naomipadillam.github.io/RetoCoppel/) 
+* Optimización de rutas para el _e-commerce_ de Coppel.
+* Uso de algoritmos **TPS**, **VRP** y **CVRP**.
+* Implementación de web scrapping para la búsqueda de direcciónes optimizada.
+* Sistema de optimización de rutas que contempla el número de vehículos, volumen de los productos, tiempo de entrega y de traslado para generar las mejores rutas disponibles.
+* Aproximación de tráfico muy cercana a una situación real.
+
+<iframe src="https://ma2001b-202-4-mapeop2.netlify.app/" height="500" width="700"></iframe>
+
+Puedes explorar este mapa en el [link](https://ma2001b-202-4-mapeop2.netlify.app/)
 
 
 # [Proyecto 4: Predicción Contagios Montecarlo](https://naomipadillam.github.io/ContagioMontecarlo/) 
