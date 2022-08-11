@@ -12,6 +12,7 @@ Tablero de [GitHub](https://github.com/NaomiPadillaM).
 Mi perfil en [Linkedin](https://www.linkedin.com/in/naomi-padilla-mora-/).
 
 # [Proyecto 1: Heart Failure Predictions](https://github.com/NaomiPadillaM/Heart-Failure-Predictions.git)
+## Lenguajes: Python 
 * Limpieza y pretratamiento de datos usando *pandas* y *numpy* con el objetivo de verificar el tipo de datos y la presencia de datos nulos.
 * Análisis estadístico de cada variable, su distribución y correlación. 
 * Uso de Sklearn *Principal Component Analysis (PCA)* y *StandarScaler* para la estandarización de los datos.
@@ -25,6 +26,7 @@ Mi perfil en [Linkedin](https://www.linkedin.com/in/naomi-padilla-mora-/).
 
 
 # [Proyecto 2: Life-Expectancy](https://naomipadillam.github.io/Life-Expectancy/) 
+## Lenguajes: Python 
 * Limpieza y pretratamiento de datos usando *pandas* y *numpy* con el objetivo de verificar el tipo de datos y la presencia de datos nulos.
 * Cambio de variables _string_ a _int_, tratamiento de datos nulos y selección de variables más relevantes.
 * Uso de la librería **geopandas** para el modelado geográfico de la solución.
@@ -42,6 +44,7 @@ Mi perfil en [Linkedin](https://www.linkedin.com/in/naomi-padilla-mora-/).
 Puedes explorar este mapa en el [link](https://e6lifenosupervisado.netlify.app/)
 
 # [Proyecto 3: Reto Coppel](https://naomipadillam.github.io/RetoCoppel/) 
+## Lenguajes: Python 
 * Optimización de rutas para el _e-commerce_ de Coppel.
 * Uso de algoritmos **TPS**, **VRP** y **CVRP**.
 * Implementación de web scrapping para la búsqueda de direcciónes optimizada.
@@ -54,6 +57,7 @@ Puedes explorar este mapa en el [link](https://ma2001b-202-4-mapeop2.netlify.app
 
 
 # [Proyecto 4: Predicción Contagios Montecarlo](https://naomipadillam.github.io/ContagioMontecarlo/)
+## Lenguajes: R, Python 
 * Creación de simulaciones de la distribución de contagios por una enfermedad en México, implementando el modelo SIR.
 * Creación de aplicación _dashboard_ consulte en el [link](https://adrian-landaverde.shinyapps.io/ContagioEpidemia/).
 * La aplicación que permite ver la expansión de una enfermedad usando una simulación Montecarlo con el modelo SIR. En ella es posible probar los escenarios deseados a través de variables como la cantidad de días, población total, razón de infección y de recuperación.
@@ -66,6 +70,7 @@ Simulación de 365 días:
 <iframe width="340" height="280" src="https://www.youtube.com/embed/mel1g1ueas4" title="Simulación A con 365 días" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # [Proyecto 5: Reto FEMSA](https://github.com/NaomiPadillaM/Reto-FEMSA-COCA-COLA) 
+## Lenguajes: R, Python 
 * Análisis exploratorio de las variables por cada uno de los compresores de la planta de FEMSA COCA-COLA.
 * Análisis estadístico.
 * Prueba Anova y su distribución por SKU (variable) y _t-student_.
@@ -78,6 +83,7 @@ Simulación de 365 días:
 ![](/images/femsa_2.png)
 
 # [Proyecto 6: Predicción de calorías](https://github.com/NaomiPadillaM/Prediccion-de-calorias) 
+## Lenguajes: Python, Excel 
 * Creación de dataset de manera manual. Registro de consumo nutrimental (calorías, grasas, proteínas, carbohidratos y sodio) por cada alimento consumido a lo largo de 15 semanas. Con una dimensión de 5 x 317.
 * Análsis exploratorio en excel, **análisis de correlación** y **Regresión múltiple**. Además de la obtención de la ecuación lineal que modela la situación.
 * Implementación del modelo de predicción de calorías utilizando **Sickit-Learn**.
@@ -85,6 +91,7 @@ Simulación de 365 días:
 ![](/images/nutrimental_1.png)
 
 # [Proyecto 7: Genes de Cancer de Colon](https://github.com/NaomiPadillaM/Genes-en-cancer-colon) 
+## Lenguajes: R 
 * Utilizando datasets sobre la expresión de genes, obtenidos de _Geo Datasets_.
 * El análisis se llevó a cabo en jóvenes y adultos con cáncer de colon en estapa II y III.
 * La selección de genes o biomarcadores se llevó a cabo con **t-test**.
