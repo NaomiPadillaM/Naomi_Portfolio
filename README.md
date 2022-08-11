@@ -85,3 +85,14 @@ Simulación de 365 días:
 ![](/images/nutrimental_1.png)
 
 # [Proyecto 7: Genes de Cancer de Colon](https://github.com/NaomiPadillaM/Genes-en-cancer-colon) 
+* Utilizando datasets sobre la expresión de genes, obtenidos de _Geo Datasets_.
+* El análisis se llevó a cabo en jóvenes y adultos con cáncer de colon en estapa II y III.
+* La selección de genes o biomarcadores se llevó a cabo con **t-test**.
+* Implementación de _volcano Graph_ y _R-I Graph_ con el objetivo de encontrar las diferencias entre los cuatro grupos de estudio:
+** Adultos jóvenes con cáncer de colon etapa II.
+** Adultos jóvenes con cáncer de colon etapa III.
+** Adultos mayores con cáncer de colon etapa II.
+** Adultos mayores con cáncer de colon etapa III.
+* Investigación de cada uno de los biomarcadores identificados como los más relevantes usando _genomic datasest_ como **STRING**, **KEGG**, **Panther** y **NCBI**.
+
+![](https://github.com/NaomiPadillaM/Naomi_Portfolio/blob/main/images/genes_1.png)
