@@ -24,9 +24,19 @@ Mi perfil en [Linkedin](https://www.linkedin.com/in/naomi-padilla-mora-/).
 ![](/images/heart_2.png)
 
 
-# [Proyecto 2: Life-Expectancy](https://github.com/NaomiPadillaM/Life-Expectancy.git) 
-* 
-![](/images/correlation_visual.png)
+# [Proyecto 2: Life-Expectancy](https://naomipadillam.github.io/Life-Expectancy/) 
+* Limpieza y pretratamiento de datos usando *pandas* y *numpy* con el objetivo de verificar el tipo de datos y la presencia de datos nulos.
+* Cambio de variables _string_ a _int_, tratamiento de datos nulos y selección de variables más relevantes.
+* Uso de la librería **geopandas** para el modelado geográfico de la solución.
+* Uso de Sklearn *Principal Component Analysis (PCA)* y *StandarScaler* para la estandarización de los datos.
+* Implementación del método del codo y _Silhouette Coefficient_ para la obtención de número de clusters a implementar.
+* Modelos de clasificación por condiciones de salud a nivel mundial utilizando **K-Means**, **Affinity Propagation**, **Spectral clustering** y **DBSCAN**.
+* Reducción dimensional para la visualización de los datos.
+* Uso de las librerías _plotly.express_ y _matplotlib.pyplot_ para las gráficas de dispersión por grupos. 
+* Uso de la librería _folium_ para la creación de la visualización geográfica final. Mapa interactivo por cada uno de los métodos aplicados.
+![](/images/life_1.png)
+![](/images/life_2.png)
+<iframe src="https://e6lifenosupervisado.netlify.app/" height="500" width="1000"></iframe>
 
 # [Proyecto 3: Reto Coppel](https://naomipadillam.github.io/RetoCoppel/) 
 
