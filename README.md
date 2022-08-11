@@ -95,4 +95,4 @@ Simulación de 365 días:
   * Adultos mayores con cáncer de colon etapa III.
 * Investigación de cada uno de los biomarcadores identificados como los más relevantes usando _genomic datasest_ como **STRING**, **KEGG**, **Panther** y **NCBI**.
 
-![](https://github.com/NaomiPadillaM/Naomi_Portfolio/blob/main/images/genes_1.png)
+![](/images/genes_1.png)
