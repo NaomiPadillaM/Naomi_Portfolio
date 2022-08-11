@@ -66,6 +66,16 @@ Simulación de 365 días:
 <iframe width="340" height="280" src="https://www.youtube.com/embed/mel1g1ueas4" title="Simulación A con 365 días" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # [Proyecto 5: Reto FEMSA](https://github.com/NaomiPadillaM/Reto-FEMSA-COCA-COLA) 
+* Análisis exploratorio de las variables por cada uno de los compresores de la planta de FEMSA COCA-COLA.
+* Análisis estadístico.
+* Prueba Anova y su distribución por SKU (variable) y _t-student_.
+* Creación de aplicación _dashboard_ consulte en el [link](https://adrian-landaverde.shinyapps.io/ProyectoCocaCola3/).
+* En la aplicación se pueden ver los gráficos de cada compresor con las variables requeridas, además de las correlaciones y los resultados de la prueba Anova.
+* Implementación del método **Random Forest** para la predicción del consumo de energía por cada compresor de la planta por día.
+
+![](/images/femsa_1.png)
+
+![](/images/femsa_2.png)
 
 # [Proyecto 6: Predicción de calorías](https://github.com/NaomiPadillaM/Prediccion-de-calorias) 
 
