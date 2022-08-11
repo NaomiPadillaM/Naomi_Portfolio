@@ -78,5 +78,10 @@ Simulación de 365 días:
 ![](/images/femsa_2.png)
 
 # [Proyecto 6: Predicción de calorías](https://github.com/NaomiPadillaM/Prediccion-de-calorias) 
+* Creación de dataset de manera manual. Registro de consumo nutrimental (calorías, grasas, proteínas, carbohidratos y sodio) por cada alimento consumido a lo largo de 15 semanas. Con una dimensión de 5 x 317.
+* Análsis exploratorio en excel, **análisis de correlación** y **Regresión múltiple**. Además de la obtención de la ecuación lineal que modela la situación.
+* Implementación del modelo de predicción de calorías utilizando **Sickit-Learn**.
+
+![](/images/nutrimental_1.png)
 
 # [Proyecto 7: Genes de Cancer de Colon](https://github.com/NaomiPadillaM/Genes-en-cancer-colon) 
