@@ -53,7 +53,17 @@ Puedes explorar este mapa en el [link](https://e6lifenosupervisado.netlify.app/)
 Puedes explorar este mapa en el [link](https://ma2001b-202-4-mapeop2.netlify.app/)
 
 
-# [Proyecto 4: Predicción Contagios Montecarlo](https://naomipadillam.github.io/ContagioMontecarlo/) 
+# [Proyecto 4: Predicción Contagios Montecarlo](https://naomipadillam.github.io/ContagioMontecarlo/)
+* Creación de simulaciones de la distribución de contagios por una enfermedad en México, implementando el modelo SIR.
+* Creación de aplicación _dashboard_ consulte en el [link](https://adrian-landaverde.shinyapps.io/ContagioEpidemia/).
+* La aplicación que permite ver la expansión de una enfermedad usando una simulación Montecarlo con el modelo SIR. En ella es posible probar los escenarios deseados a través de variables como la cantidad de días, población total, razón de infección y de recuperación.
+* Implementación de este método en una representación geográfica de México con la libreria _geopandas_.
+
+![](/images/montecarlo_1.png)
+
+Simulación de 365 días: 
+
+<iframe width="340" height="280" src="https://www.youtube.com/embed/mel1g1ueas4" title="Simulación A con 365 días" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # [Proyecto 5: Reto FEMSA](https://github.com/NaomiPadillaM/Reto-FEMSA-COCA-COLA) 
 
