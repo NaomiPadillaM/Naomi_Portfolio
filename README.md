@@ -35,7 +35,7 @@ Mi perfil en [Linkedin](https://www.linkedin.com/in/naomi-padilla-mora-/).
 * Uso de las librerías _plotly.express_ y _matplotlib.pyplot_ para las gráficas de dispersión por grupos. 
 * Uso de la librería _folium_ para la creación de la visualización geográfica final. Mapa interactivo por cada uno de los métodos aplicados.
 ![](/images/life_1.png)
-<iframe src="https://e6lifenosupervisado.netlify.app/" height="500" width="1000"></iframe>
+<iframe src="https://e6lifenosupervisado.netlify.app/" height="400" width="900"></iframe>
 
 # [Proyecto 3: Reto Coppel](https://naomipadillam.github.io/RetoCoppel/) 
 
