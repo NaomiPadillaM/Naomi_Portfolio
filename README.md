@@ -27,3 +27,13 @@ Mi perfil en [Linkedin](https://www.linkedin.com/in/naomi-padilla-mora-/).
 # [Proyecto 2: Life-Expectancy](https://github.com/NaomiPadillaM/Life-Expectancy.git) 
 * 
 ![](/images/correlation_visual.png)
+
+# [Proyecto 3: Rero Coppel](https://naomipadillam.github.io/RetoCoppel/) 
+
+# [Proyecto 4: Predicción Contagios Montecarlo](https://naomipadillam.github.io/ContagioMontecarlo/) 
+
+# [Proyecto 5: Reto FEMSA](https://github.com/NaomiPadillaM/Reto-FEMSA-COCA-COLA) 
+
+# [Proyecto 6: Predicción de calorías](https://github.com/NaomiPadillaM/Prediccion-de-calorias) 
+
+# [Proyecto 7: Genes de Cancer de Colon](https://github.com/NaomiPadillaM/Genes-en-cancer-colon) 
