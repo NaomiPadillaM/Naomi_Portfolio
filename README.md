@@ -133,35 +133,42 @@ Simulación de 365 días:
 # Experiencia
 ## Intern en J.P. Morgan - HelpDesk
 2022 - presente
+
 Soporte tecnológico a las diversas áreas de operaciones dentro de J.P. Morgan México. Creación y gestión de reportes aplicando la visualización de datos.
 
 ## Patrones Hermosos 
 Ediciones verano e invierno 2022
+
 Campamento online edición invierno de enseñanza de programación web para jóvenes mujeres de 11 a 14 años a nivel LATAM. Colaboración con Massachusetts Institute of Technology (MIT). Rol: Facilitadora.
 Campamento presencial edición verano de enseñanza de programación en python para jóvenes mujeres de 11 a 17 años. Colaboración con Massachusetts Institute of Technology (MIT). Rol: Instructora.
 
 ![](/images/marge4.jpg)
 
 # Extracurriculares
-## SAIDM - Viceprsidenta 
+## SAIDM - Vicepresidenta 
 2022 - presente
+
 Sociedad Académica de Ingeniería en Ciencia de Datos y Matemáticas. Creación de proyectos de análisis de datos de manera colaborativa e individual. Actividades de integración y proyectos académicos y/o profesionales entre los alumnos de la carrera.
 
 ## Hormigas - Coor. de Tesorería y responsabilidad social
 2021 - presente
+
 Grupo Estudiantil de acción social. Apoyamos a más de 35 familias en situación vulnerable en
 el Estado de México a través de colectas, donativos y actividades de integración.
 
 ## Front of house
 2022 - presente
+
 Compañía de Arte y Producción del Campus Estado de México con conocimiento de Protección Civil, capacitación en primeros auxilios y combate de incendios.
 
 ## ArTec - Servicio social
 2022
+
 Proyecto de apoyo a artesanos locales a través de eventos y publicidad.
 
 ## CIJ Naucalpan - Servicio Social
 2021
+
 Clases online de matemáticas para niños de 10 y 11 años.
 
 
