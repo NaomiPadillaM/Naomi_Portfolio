@@ -125,12 +125,11 @@ Simulación de 365 días:
 ![](/images/genes_1.png)
 
 # Experiencia
-
-<H1> Intern en J.P. Morgan - HelpDesk </H1>.
+## Intern en J.P. Morgan - HelpDesk
 2022 - presente
 Soporte tecnológico a las diversas áreas de operaciones dentro de J.P. Morgan México. Creación y gestión de reportes aplicando la visualización de datos.
 
-<H1> Patrones Hermosos </H1>.
+## Patrones Hermosos 
 Ediciones verano e invierno 2022
 Campamento online edición invierno de enseñanza de programación web para jóvenes mujeres de 11 a 14 años a nivel LATAM. Colaboración con Massachusetts Institute of Technology (MIT). Rol: Facilitadora.
 Campamento presencial edición verano de enseñanza de programación en python para jóvenes mujeres de 11 a 17 años. Colaboración con Massachusetts Institute of Technology (MIT). Rol: Instructora.
