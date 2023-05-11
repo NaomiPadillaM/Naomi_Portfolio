@@ -13,6 +13,8 @@ Tablero de [GitHub](https://github.com/NaomiPadillaM).
 
 Mi perfil en [Linkedin](https://www.linkedin.com/in/naomi-padilla-mora-/).
 
+![](/images/marge.jpg)
+
 ## Skills
 
 ![](/images/skills2.jpg)
