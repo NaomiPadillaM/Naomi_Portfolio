@@ -17,7 +17,7 @@ Mi perfil en [Linkedin](https://www.linkedin.com/in/naomi-padilla-mora-/).
 
 skills:
 
-![](/images/python.jpeg)
+![](/images/skills1.jpg)
 
 # [Proyecto 1: Heart Failure Predictions](https://github.com/NaomiPadillaM/Heart-Failure-Predictions.git)
 ## Lenguajes: Python 
