@@ -17,7 +17,19 @@ Mi perfil en [Linkedin](https://www.linkedin.com/in/naomi-padilla-mora-/).
 
 skills:
 
-![](/images/skills1.jpg)
+![](/images/skills2.jpg)
+
+### Python
+Machine Learning avanzado usando aprendizaje supervisado y no supervisado con Sickit-Learn. Uso avanzado de Numpy, Pandas, Matplotlib y Seaborn. Experiencia de Web Scrapping usando Selenium. Creación de Dashoards con Plotly y Dash
+
+### Matlab
+Nivel avanzado en gráficas 2D y 3D. Creación de animaciones y códigos para cálculos complejos y optimizados.
+
+### R
+Machine Learning básico con aprendizaje supervisado. Experiencia usando ggplot. Uso de Shiny para crear Dashboards y desplegarlos en la web.
+
+### HTML
+Programación básica de páginas web con HTML.
 
 # [Proyecto 1: Heart Failure Predictions](https://github.com/NaomiPadillaM/Heart-Failure-Predictions.git)
 ## Lenguajes: Python 
