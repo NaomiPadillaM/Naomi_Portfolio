@@ -1,5 +1,5 @@
 # Naomi Padilla Portfolio
-Porfolio de mis proyectos más destacables en ciencia de datos.
+Portafolio de mis proyectos más destacables en ciencia de datos.
 
 ## Sobre mi
 Estudiante del 5to semestre de **Ingeniería en Ciencia de Datos y Matemáticas en el Tecnológico de Monterrey**.
