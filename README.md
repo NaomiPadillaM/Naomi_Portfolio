@@ -1,9 +1,9 @@
-# Naomi Padilla Portfolio
+# Naomi Padilla - Portafolio
 Portafolio de mis proyectos más destacables en ciencia de datos.
 
 ## Sobre mi
-Estudiante del 5to semestre de **Ingeniería en Ciencia de Datos y Matemáticas en el Tecnológico de Monterrey**.
-Me apasiona la programación y la tecnología. Me considero una persona perseverante en mis metas académicas, laborales y personales. Siempre dispuesta a aprender cosas nuevas y retos nuevos.
+Estudiante del 6to semestre de **Ingeniería en Ciencia de Datos y Matemáticas en el Tecnológico de Monterrey**.
+Me apasiona la programación y la tecnología. Me considero una persona perseverante en mis metas académicas, laborales y personales. Siempre dispuesta a aprender y tener nuevos retos. A lo largo de mi carrera y experiencia laboral he desarrollado diversas competencias como la comunicación, el trabajo en equipo, pensamiento crítico y toma de desiciones.
 
 Mi [CV](https://github.com/NaomiPadillaM/Naomi_Portfolio/blob/main/files/Naomi_Padilla%20Mora_Resumen.pdf) (español).
 
@@ -12,6 +12,10 @@ Mi [CV](https://github.com/NaomiPadillaM/Naomi_Portfolio/blob/main/files/Naomi_P
 Tablero de [GitHub](https://github.com/NaomiPadillaM).
 
 Mi perfil en [Linkedin](https://www.linkedin.com/in/naomi-padilla-mora-/).
+
+## Skills
+
+
 
 # [Proyecto 1: Heart Failure Predictions](https://github.com/NaomiPadillaM/Heart-Failure-Predictions.git)
 ## Lenguajes: Python 
