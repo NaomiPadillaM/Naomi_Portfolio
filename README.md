@@ -13,7 +13,7 @@ Tablero de [GitHub](https://github.com/NaomiPadillaM).
 
 Mi perfil en [Linkedin](https://www.linkedin.com/in/naomi-padilla-mora-/).
 
-![](/images/marge.jpg)
+![](/images/marge4.jpg)
 
 ## Skills
 
@@ -30,6 +30,8 @@ Machine Learning básico con aprendizaje supervisado. Experiencia usando ggplot.
 
 ### HTML
 Programación básica de páginas web con HTML.
+
+![](/images/marge4.jpg)
 
 # Proyectos
 
@@ -126,6 +128,8 @@ Simulación de 365 días:
 
 ![](/images/genes_1.png)
 
+![](/images/marge4.jpg)
+
 # Experiencia
 ## Intern en J.P. Morgan - HelpDesk
 2022 - presente
@@ -135,6 +139,8 @@ Soporte tecnológico a las diversas áreas de operaciones dentro de J.P. Morgan 
 Ediciones verano e invierno 2022
 Campamento online edición invierno de enseñanza de programación web para jóvenes mujeres de 11 a 14 años a nivel LATAM. Colaboración con Massachusetts Institute of Technology (MIT). Rol: Facilitadora.
 Campamento presencial edición verano de enseñanza de programación en python para jóvenes mujeres de 11 a 17 años. Colaboración con Massachusetts Institute of Technology (MIT). Rol: Instructora.
+
+![](/images/marge4.jpg)
 
 # Extracurriculares
 ## SAIDM - Viceprsidenta 
