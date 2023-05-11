@@ -16,9 +16,8 @@ Mi perfil en [Linkedin](https://www.linkedin.com/in/naomi-padilla-mora-/).
 ## Skills
 
 skills:
-- name: Python
-  logo: "/images/heart_1.png"
-  summary: "Descripción media de lo que sabes hacer con esta habilidad"
+
+![](/images/python.jpeg)
 
 # [Proyecto 1: Heart Failure Predictions](https://github.com/NaomiPadillaM/Heart-Failure-Predictions.git)
 ## Lenguajes: Python 
